@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection
 
 ## Overview
-This repository contains code for detecting credit card fraud using anomaly detection techniques. The dataset used for this analysis is sourced from [creditcard.csv](Code%20and%20Files/creditcard.csv).
+This repository contains code for detecting credit card fraud using anomaly detection techniques.
 
 ## Getting Started
 
@@ -11,4 +11,11 @@ This repository contains code for detecting credit card fraud using anomaly dete
 
 ### Installation
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy pycaret
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install scipy
+pip install pycaret
+
