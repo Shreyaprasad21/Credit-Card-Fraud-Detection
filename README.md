@@ -6,7 +6,7 @@ Welcome to the ultimate Python project for Credit Card Fraud Detection! This pow
 - **Isolation Forest**: Cutting-edge anomaly detection.
 - **Data Analysis**: In-depth transaction insights and visualizations.                                                                                                                                             
 - **Model Comparison**: PyCaret magic at your fingertips.
-- **Random Forest**: The unrivaled champion of fraud detection.
+- **Random Forest**: The unrivaled champion of fraud detection.           
                                                                                 
 ## 🚀 Installation        
 
