@@ -8,7 +8,7 @@ Welcome to the ultimate Python project for Credit Card Fraud Detection! This pow
 - **Model Comparison**: PyCaret magic at your fingertips.
 - **Random Forest**: The unrivaled champion of fraud detection.           
                                                                                 
-## 🚀 Installation        
+## 🚀 Installation         
 
 1. Clone this epic repository:
    ```bash
