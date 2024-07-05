@@ -1,16 +1,31 @@
-# Credit Card Fraud Detection 🔍
+# Credit Card Fraud Detection
 
-Welcome to the ultimate Python project for Credit Card Fraud Detection! This powerhouse leverages the incredible Isolation Forest algorithm to sniff out fraudulent transactions with unparalleled precision. Dive deep into transaction data analysis and feast your eyes on captivating distribution visualizations. But wait, there's more! Experience the magic of PyCaret for seamless model comparison, and witness the supremacy of the Random Forest algorithm in action. This project is a game-changer in the realm of fraud detection!                     
+This repository contains code for detecting credit card fraud using machine learning techniques.
 
-## 🌟 Features          
-- **Isolation Forest**: Cutting-edge anomaly detection.
-- **Data Analysis**: In-depth transaction insights and visualizations.                                                                                                                                             
-- **Model Comparison**: PyCaret magic at your fingertips.
-- **Random Forest**: The unrivaled champion of fraud detection.           
-                                                                                
-## 🚀 Installation         
+## Files
 
-1. Clone this epic repository:
-   ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
+1. `Credit_Card_Fraud_Detection.ipynb`: Jupyter Notebook containing the code for credit card fraud detection.
+2. `LICENSE`: License information for the repository.
+3. `README.md`: This file; provides an overview of the repository.
 
+## Overview
+
+The `Credit_Card_Fraud_Detection.ipynb` notebook includes:
+
+- Data preprocessing steps.
+- Feature engineering techniques.
+- Application of machine learning models (e.g., logistic regression, random forest) for fraud detection.
+- Evaluation metrics used to assess model performance.
+
+## Usage
+
+To run the notebook:
+
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the directory: `cd <repository-folder>`
+3. Install dependencies if necessary.
+4. Open and run the `Credit_Card_Fraud_Detection.ipynb` using Jupyter Notebook or JupyterLab.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
