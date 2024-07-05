@@ -21,8 +21,8 @@ The `Credit_Card_Fraud_Detection.ipynb` notebook includes:
 
 To run the notebook:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the directory: `cd <repository-folder>`
+1. Clone the repository: `https://github.com/Shreyaprasad21/Credit-Card-Fraud-Detection.git`
+2. Navigate to the directory: `cd Credit-Card-Fraud-Detection`
 3. Install dependencies if necessary.
 4. Open and run the `Credit_Card_Fraud_Detection.ipynb` using Jupyter Notebook or JupyterLab.
 
