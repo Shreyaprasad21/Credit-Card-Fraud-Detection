@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection  
 
 This repository contains code for detecting credit card fraud using machine learning techniques.
 
