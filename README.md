@@ -5,7 +5,7 @@ This repository contains code for detecting credit card fraud using machine lear
 ## Files
 
 1. `Credit_Card_Fraud_Detection.ipynb`: Jupyter Notebook containing the code for credit card fraud detection.                   
-2. `LICENSE`: License information for the repository.
+2. `LICENSE`: License information for the repository.  
 3. `README.md`: This file; provides an overview of the repository.
 
 ## Overview
